@@ -1,0 +1,12 @@
+body{
+    background-color :#eaf6f6
+}
+hr{
+    border: solid;
+    border-style: dotted none none;
+    border-width: 5px;
+    width: 5%;
+}
+.star{
+    font-size: 25px;
+}
